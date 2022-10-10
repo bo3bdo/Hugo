@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bo3bdo.com/</loc>
+    <loc>http://bo3bdo.com/</loc>
+    <lastmod>2022-10-10T22:48:07+03:00</lastmod>
   </url><url>
-    <loc>https://bo3bdo.com/categories/</loc>
+    <loc>http://bo3bdo.com/posts/</loc>
+    <lastmod>2022-10-10T22:48:07+03:00</lastmod>
   </url><url>
-    <loc>https://bo3bdo.com/tags/</loc>
+    <loc>http://bo3bdo.com/posts/test-rr/</loc>
+    <lastmod>2022-10-10T22:48:07+03:00</lastmod>
+  </url><url>
+    <loc>http://bo3bdo.com/posts/test-one/</loc>
+    <lastmod>2022-10-10T17:45:11+03:00</lastmod>
+  </url><url>
+    <loc>http://bo3bdo.com/categories/</loc>
+  </url><url>
+    <loc>http://bo3bdo.com/tags/</loc>
   </url>
 </urlset>
