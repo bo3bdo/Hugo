@@ -11,12 +11,12 @@ paginate = 5
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "bo3bdo Blog..."
+    subtitle = "A simple theme for Blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "bo3bdo Blog..."
       logoHomeLink = "/"
     # or
     #
